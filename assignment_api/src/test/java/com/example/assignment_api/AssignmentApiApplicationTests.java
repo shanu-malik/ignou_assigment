@@ -1,10 +1,10 @@
-package com.example.assignmentportal;
+package com.example.assignment_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AssignmentportalApplicationTests {
+class AssignmentApiApplicationTests {
 
 	@Test
 	void contextLoads() {

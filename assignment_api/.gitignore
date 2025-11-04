@@ -1,0 +1,47 @@
+# Java / Maven / Gradle
+/target/
+/build/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.log
+*.tmp
+*.bak
+hs_err_pid*
+*.hprof
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle Wrapper
+.gradle/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.env
+
+# Eclipse / STS
+.classpath
+.project
+.settings
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
